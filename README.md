@@ -5,9 +5,9 @@ I'm Jussara de Jesus Andrade, Full Stack Developer Java, Information Systems Gra
 * ❤ Hobbie: I like riding bicycle, listen music, travel and play games; 
 
 <hr>
-<p><b>🚀 Hard Skills  - Technologies</b></p>
 
 <div align="center">
+<p><b>🚀 Hard Skills  - Technologies</b></p>
 <a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML 5" style="max-width:100%;">
 </a>
@@ -29,17 +29,19 @@ I'm Jussara de Jesus Andrade, Full Stack Developer Java, Information Systems Gra
  <a>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" style="max-width:100%;">
 </a>
+ <a>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" title="MySql" style="max-width:100%;">
 </a>
 </div>
 
 <hr>
+
+<div align="center">
 <p><b>Connect with me</b></p>
-<div>
-</a href="https://www.linkedin.com/in/jussara-andrade-731731142/" rel="nofollow">
+<a href="https://www.linkedin.com/in/jussara-andrade-731731142/" rel="nofollow">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" style="max-width:100%;">
 </a>
-</a href="mailto:jussara.jandrade1993@outlook.com" rel="nofollow">
+<a href="mailto:jussara.jandrade1993@outlook.com" rel="nofollow">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" title="Outlook" style="max-width:100%;">
 </a>
 </div>
