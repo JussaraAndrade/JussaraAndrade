@@ -6,8 +6,8 @@ I'm Jussara de Jesus Andrade, Full Stack Developer Java, Information Systems Gra
 
 <hr>
 
-<div align="center">
-<p><b>🚀 Hard Skills  - Technologies</b></p>
+<div>
+<p><b>🚀 Languages and Tools</b></p>
 <a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML 5" style="max-width:100%;">
 </a>
@@ -17,8 +17,8 @@ I'm Jussara de Jesus Andrade, Full Stack Developer Java, Information Systems Gra
 <a>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap 4" style="max-width:100%;">
 </a>
- <a>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" title="Jquery" style="max-width:100%;">
+<a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" style="max-width:100%;">
 </a>
 <a>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" title="Java" style="max-width:100%;">
@@ -32,11 +32,21 @@ I'm Jussara de Jesus Andrade, Full Stack Developer Java, Information Systems Gra
  <a>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" title="MySql" style="max-width:100%;">
 </a>
+<a>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" title="Heroku" style="max-width:100%;">
+</a>
+ <a>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" style="max-width:100%;">
+</a>
+ <a>
+  <img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white" title="Git" style="max-width:100%;">
+</a>
 </div>
+
 
 <hr>
 
-<div align="center">
+<div>
 <p><b>Connect with me</b></p>
 <a href="https://www.linkedin.com/in/jussara-andrade-731731142/" rel="nofollow" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" style="max-width:100%;">
