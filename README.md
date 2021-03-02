@@ -1,11 +1,9 @@
 ### Hi there 👋
 I'm Jussara de Jesus Andrade, Full Stack Developer Java, Information Systems Graduate at Center University Senac Santo Amaro - São Paulo.
 
-
 <p>📚 Studying: Spring Boot | Java | JavaScript | Frameworks;</p>
 <p>❤ Hobbie: I like riding bicycle, listen music, travel and play games; </p>	
  
-<br>
 <br>
 
 <div>
