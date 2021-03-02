@@ -28,11 +28,9 @@ I'm Jussara de Jesus Andrade, Full Stack Developer Java, Information Systems Gra
 
 <div>
 <p><b>Connect with me</b></p>
+	
 <a href="https://www.linkedin.com/in/jussara-andrade-731731142/" rel="nofollow" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" style="max-width:100%;">
-</a>
-<a href="mailto:jussara.jandrade1993@outlook.com" rel="nofollow">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" title="Outlook" style="max-width:100%;">
 </a>
 </div>
 
