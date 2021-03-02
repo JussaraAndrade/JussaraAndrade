@@ -8,39 +8,19 @@ I'm Jussara de Jesus Andrade, Full Stack Developer Java, Information Systems Gra
 
 <div>
 <p><b>🚀 Languages and Tools</b></p>
-<a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML 5" style="max-width:100%;">
-</a>
-<a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS 3" style="max-width:100%;">
-</a>
-<a>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap 4" style="max-width:100%;">
-</a>
-<a>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" style="max-width:100%;">
-</a>
-<a>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" title="Java" style="max-width:100%;">
-</a>
-<a>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" title="Spring boot" style="max-width:100%;">
-</a>
- <a>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" style="max-width:100%;">
-</a>
- <a>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" title="MySql" style="max-width:100%;">
-</a>
-<a>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" title="Heroku" style="max-width:100%;">
-</a>
- <a>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" style="max-width:100%;">
-</a>
- <a>
-  <img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white" title="Git" style="max-width:100%;">
-</a>
+ 
+  
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML 5" />
+	  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS 3" />
+	  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" />
+	  <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React" />
+	  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java 8+" />
+	  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring" />
+	  <img src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript" />
+	  <img src="https://img.icons8.com/metro/48/000000/mysql.png" title="MySQL" />
+	  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreeSQL" />
+	  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" />
+	  <img src="https://img.icons8.com/color/48/000000/heroku.png" title="Heroku" />
 </div>
 
 
