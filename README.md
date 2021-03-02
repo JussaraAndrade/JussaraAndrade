@@ -2,11 +2,11 @@
 I'm Jussara de Jesus Andrade, Full Stack Developer Java, Information Systems Graduate at Center University Senac Santo Amaro - São Paulo.
 
 
-<li>📚 Studying: Spring Boot | Java | JavaScript | Frameworks;</li>
-<li>❤ Hobbie: I like riding bicycle, listen music, travel and play games; </li>	
+<p>📚 Studying: Spring Boot | Java | JavaScript | Frameworks;</p>
+<p>❤ Hobbie: I like riding bicycle, listen music, travel and play games; </p>	
  
-
-<hr>
+<br>
+<br>
 
 <div>
 
@@ -25,15 +25,13 @@ I'm Jussara de Jesus Andrade, Full Stack Developer Java, Information Systems Gra
 <img src="https://img.icons8.com/color/48/000000/heroku.png" title="Heroku" />
 </div>
 
-<br>
 
-<div>		
-### Connect with me
-	
+#### Connect with me
+<div>			
 <a href="https://www.linkedin.com/in/jussara-andrade-731731142/" rel="nofollow" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" style="max-width:100%;">
 </a>
-</div>
+
 
 
 
