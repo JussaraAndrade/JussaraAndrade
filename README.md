@@ -20,7 +20,6 @@ I'm Jussara de Jesus Andrade, Full Stack Developer Java, Information Systems Gra
 <img src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring" />
 <img src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript" />
 <img src="https://img.icons8.com/metro/48/000000/mysql.png" title="MySQL" />
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreeSQL" />
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" />
 <img src="https://img.icons8.com/color/48/000000/heroku.png" title="Heroku" />
 </div>
