@@ -31,14 +31,11 @@ I'm Jussara de Jesus Andrade, Full Stack Developer Java, Information Systems Gra
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" style="max-width:100%;">
 </a>
 
+<br>
+<br>
 
 
-
-
-
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JussaraAndrade&show_icons=true&theme=onedark)
 
 
 
