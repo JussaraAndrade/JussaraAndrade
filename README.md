@@ -14,8 +14,6 @@ I'm Jussara de Jesus Andrade, Full Stack Developer Java, Information Systems Gra
 <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS 3" />
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" />
 <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="AngularJS" />
-<img src="https://img.icons8.com/color/48/000000/typescript.png" title="Typescript" />
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" title="node" />
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java 8+" />
 <img src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring" />
 <img src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript" />
