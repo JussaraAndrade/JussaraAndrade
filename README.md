@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jussara de Jesus Andrade, Full Stack Developer Java, Information Systems Graduate at Center University Senac Santo Amaro - São Paulo.
+I'm Jussara de Jesus Andrade, Full Stack Developer Java, Bachelor of Information Systems Graduate at Center University Senac Santo Amaro - São Paulo, Brazil.
 
 <p>📚 Studying: Spring Boot | Java | JavaScript | Frameworks;</p>
 <p>❤ Hobbie: I like riding bicycle, listen music, travel and play games; </p>	
@@ -17,6 +17,7 @@ I'm Jussara de Jesus Andrade, Full Stack Developer Java, Information Systems Gra
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java 8+" />
 <img src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring" />
 <img src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript" />
+<img src="https://img.icons8.com/wired/48/000000/postman-api.png" title="Postman api" />
 <img src="https://img.icons8.com/metro/48/000000/mysql.png" title="MySQL" />
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" />
 <img src="https://img.icons8.com/color/48/000000/heroku.png" title="Heroku" />
