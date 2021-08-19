@@ -25,9 +25,15 @@ I'm Jussara de Jesus Andrade, Full Stack Developer, Bachelor of Information Syst
 
 #### Connect with me
 <div>			
-<a href="https://www.linkedin.com/in/jussara-andrade-731731142/" rel="nofollow" target="_blank">
+<a href="https://www.linkedin.com/in/jussara-andrade-731731142/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" style="max-width:100%;">
 </a>
+</div>
+
+<a href="https://www.credly.com/users/jussara-de-jesus-andrade/badges" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/guarantee.png"/>
+</a> 
+
 
 <br>
 <br>
