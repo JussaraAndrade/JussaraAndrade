@@ -17,9 +17,7 @@ I'm Jussara de Jesus Andrade, Full Stack Developer, Bachelor of Information Syst
 <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="AngularJS" />
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 <img src="https://img.icons8.com/wired/48/000000/postman-api.png" title="Postman api" />
-<img src="https://img.icons8.com/metro/48/000000/mysql.png" title="MySQL" />
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" />
-<img src="https://img.icons8.com/color/48/000000/heroku.png" title="Heroku" />
 </div>
 
 
