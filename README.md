@@ -1,7 +1,8 @@
 ### Hi there 👋
 I'm Jussara de Jesus Andrade, Full Stack Developer, Bachelor of Information Systems Graduate at Center University Senac Santo Amaro - São Paulo, Brazil.
 
-<p>📚 Studying: ASP.NET Core | C# | JavaScript | TypeScript | Angular CLI | Web API Core;</p>
+<p>📚 Studying: ASP.NET Core | Angular CLI </p>
+<p 🎯 Focus: C# | TypeScript | Web API Core;</p>
 <p>❤ Hobbie: I like riding bicycle, listen music, travel and play games; </p>	
  
 <br>
@@ -13,7 +14,6 @@ I'm Jussara de Jesus Andrade, Full Stack Developer, Bachelor of Information Syst
 <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS 3" />
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" />
 <img src="https://img.icons8.com/color/48/000000/typescript.png" title="Typescript" />
-<img src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript" />
 <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="AngularJS" />
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 <img src="https://img.icons8.com/wired/48/000000/postman-api.png" title="Postman api" />
