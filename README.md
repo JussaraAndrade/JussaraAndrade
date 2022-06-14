@@ -26,7 +26,7 @@ Em 2021 participei do programa ADA mulheres na tecnologia da Avanade, atualmente
 </div>
 
 
-#### Contato
+#### Rede Sociais
 <div>			
 <a href="https://www.linkedin.com/in/jussara-andrade-731731142/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" style="max-width:100%;">
