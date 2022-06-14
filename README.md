@@ -37,13 +37,15 @@ Em 2021 participei do programa ADA mulheres na tecnologia da Avanade, atualmente
   <img src="https://img.icons8.com/color/48/000000/guarantee.png"/>
 </a> 
 
-
 <br>
 <br>
 
+<a href="https://github.com/JussaraAndrade">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=JussaraAndrade&count_private=true&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true&layout=compact&)" />
+</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JussaraAndrade&show_icons=true&theme=onedark)
-
-
+<a href="https://github.com/JussaraAndrade">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JussaraAndrade&langs_count=8&layout=compact&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&)" />
+</a>
 
 
