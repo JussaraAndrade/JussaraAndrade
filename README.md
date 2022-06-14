@@ -2,7 +2,7 @@
 I'm Jussara de Jesus Andrade, Full Stack Developer, Bachelor of Information Systems Graduate at Center University Senac Santo Amaro - São Paulo, Brazil.
 
 <p>📚 Studying: ASP.NET Core | Angular CLI | Azure; </p>
-<p> 🎯 Focus: C# | TypeScript | Web API Core;</p>
+<p> 🎯 Focus: C# | Web API Core;</p>
 <p>❤ Hobbie: I like riding bicycle, listen music, travel and play games; </p>	
  
 <br>
