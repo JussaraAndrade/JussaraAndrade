@@ -7,7 +7,7 @@ Em 2021 participei do programa ADA mulheres na tecnologia da Avanade, atualmente
 
 
 <p>📚 Estudando:  Azure; </p>
-<p>🎯 Foco: ASP.NET Core | Angular CLI | C# | Web API Core;</p>
+<p>🎯 Foco: ASP .NET Core 5 | Angular CLI | API RESTful | C# | Entity Framework Core 5 </p>
 <p>❤ Hobbie: Gosto de andar bicicleta, ouvir música e viajar; </p>	
  
 <br>
