@@ -6,7 +6,7 @@ Em 2020 participei do bootcamp com foco em Engenharia de Software Java do Santan
 Em 2021 participei do programa ADA mulheres na tecnologia da Avanade, atualmente trabalho e faço parte da Avanade Brasil me especializando em Engenharia de Software.
 
 
-<p>📚 Estudando:  Azure; </p>
+<p>📚 Estudando:  Azure DevOps; </p>
 <p>🎯 Foco: ASP .NET Core 5 | Angular CLI | API RESTful | C# | Entity Framework Core 5 </p>
 <p>❤ Hobbie: Gosto de andar bicicleta, ouvir música e viajar; </p>	
  
