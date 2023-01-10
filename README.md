@@ -1,10 +1,9 @@
 #### Olá 👋
-Eu sou Jussara Andrade! Tenho 28 anos, desenvolvedor Full Stack .Net, formei Bacharel em Sistema de Informação em 2020 no Centro Universitário Senac Santo Amaro.
+Eu sou Jussara Andrade! Sou desenvolvedor Full Stack .Net, formei Bacharel em Sistema de Informação em 2020 no Centro Universitário Senac Santo Amaro.
 
 Em 2020 participei do bootcamp com foco em Engenharia de Software Java do Santander Coders. Participei também de outros bootcamps, um deles é a Accademia Accenture focado em desenvolvimento front-end Angular em 2021. 
 
 Em 2021 participei do programa ADA mulheres na tecnologia da Avanade, atualmente trabalho e faço parte da Avanade Brasil me especializando em Engenharia de Software.
-
 
 <p>📚 Estudando:  Azure DevOps; </p>
 <p>🎯 Foco: ASP .NET Core 5 | Angular CLI | API RESTful | C# | Entity Framework Core 5 </p>
