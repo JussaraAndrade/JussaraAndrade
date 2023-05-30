@@ -1,5 +1,5 @@
 #### Olá 👋
-Eu sou Jussara Andrade! Sou desenvolvedor Full Stack .Net, formei Bacharel em Sistema de Informação em 2020 no Centro Universitário Senac Santo Amaro.
+Eu sou Jussara Andrade! Sou desenvolvedor, formei Bacharel em Sistema de Informação em 2020 no Centro Universitário Senac Santo Amaro.
 
 Em 2020 participei do bootcamp com foco em Engenharia de Software Java do Santander Coders. Participei também de outros bootcamps, um deles é a Accademia Accenture focado em desenvolvimento front-end Angular em 2021. 
 
