@@ -5,8 +5,8 @@ Em 2020 participei do bootcamp com foco em Engenharia de Software Java do Santan
 
 Em 2021 participei do programa ADA mulheres na tecnologia da Avanade, atualmente trabalho e faço parte da Avanade Brasil me especializando em Engenharia de Software.
 
-<p>🎯 Foco: ASP .NET Core 5 | API RESTful | C# | Test NUnit | Sonar</p>
-<p>❤ Hobbie: Gosto de andar no park, práticar atividade física, jogar vídeo game e viajar; </p>	
+<p>🎯 Foco: ASP .NET Core | API RESTful | C# | Test NUnit | Sonar | React | Next JS</p>
+<p>❤ Hobbie: Andar de bicicleta, jogar vídeo game e viajar</p>	
  
 <br>
 <div>
@@ -18,10 +18,14 @@ Em 2021 participei do programa ADA mulheres na tecnologia da Avanade, atualmente
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" />
 <img src="https://img.icons8.com/color/48/000000/typescript.png" title="Typescript" />
 <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="AngularJS" />
+<img src="https://img.icons8.com/color/48/673737/mongodb.png" title="MongoDB" />
+<img src="https://img.icons8.com/?size=48&id=35989&format=png&color=4E7AB5" title="React" />
+<img src="https://img.icons8.com/?size=48&id=r2OarXWQc7B6&format=png&color=000000" title="NextJS" />
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 <img src="https://img.icons8.com/wired/48/000000/postman-api.png" title="Postman api" />
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" />
 </div>
+
 
 
 #### Rede Sociais
