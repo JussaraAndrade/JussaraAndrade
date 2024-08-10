@@ -8,7 +8,7 @@ Em 2020 participei do bootcamp com foco em Engenharia de Software Java do Santan
 Em 2021 participei do programa ADA mulheres na tecnologia da Avanade, atualmente trabalho e faço parte da Avanade Brasil me especializando em Engenharia de Software.
 
 <p>🎯 Foco: ASP .NET Core | API RESTful | C# | Test NUnit | Sonar | React | Next JS</p>
-<p>❤ Hobbie: Andar de bicicleta, jogar vídeo game e viajar</p>	
+<p>❤ Hobbie: Andar de bicicleta, jogar video game e viajar.</p>	
  
 <br>
 <div>
