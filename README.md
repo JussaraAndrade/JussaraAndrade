@@ -1,6 +1,8 @@
 #### Olá 👋
-Eu sou Jussara Andrade! Sou desenvolvedor, formei Bacharel em Sistema de Informação em 2020 no Centro Universitário Senac Santo Amaro.
+Eu sou Jussara Andrade! Sou desenvolvedora, formei Bacharel em Sistema de Informação em 2020 no Centro Universitário Senac Santo Amaro. 
+Atuo como desenvolvedora Full Stack na Avanade, trabalho com BackEnd e FrontEnd, meu ponto forte é o FrontEnd, tenho 4 anos na área de tecnologia. Aberta os novos desafios, gosto de aprender coisas novas e sair da zona de conforto.
 
+#### Bootcamp
 Em 2020 participei do bootcamp com foco em Engenharia de Software Java do Santander Coders. Participei também de outros bootcamps, um deles é a Accademia Accenture focado em desenvolvimento front-end Angular em 2021. 
 
 Em 2021 participei do programa ADA mulheres na tecnologia da Avanade, atualmente trabalho e faço parte da Avanade Brasil me especializando em Engenharia de Software.
@@ -12,7 +14,6 @@ Em 2021 participei do programa ADA mulheres na tecnologia da Avanade, atualmente
 <div>
 
 ### 🚀 Ferramentas e Linguagem
- 
 <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML 5" />
 <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS 3" />
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" />
@@ -22,11 +23,9 @@ Em 2021 participei do programa ADA mulheres na tecnologia da Avanade, atualmente
 <img src="https://img.icons8.com/?size=48&id=35989&format=png&color=4E7AB5" title="React" />
 <img src="https://img.icons8.com/?size=48&id=r2OarXWQc7B6&format=png&color=000000" title="NextJS" />
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-<img src="https://img.icons8.com/wired/48/000000/postman-api.png" title="Postman api" />
+<img src="https://img.icons8.com/wired/48/FFCB2B/postman-api.png" title="Postman api" />
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" />
 </div>
-
-
 
 #### Rede Sociais
 <div>			
