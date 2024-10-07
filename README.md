@@ -5,7 +5,7 @@ Atuo como desenvolvedora Full Stack na Avanade, trabalho com BackEnd e FrontEnd,
 #### Bootcamp
 Em 2020 participei do bootcamp com foco em Engenharia de Software Java do Santander Coders. Participei também de outros bootcamps, um deles é a Accademia Accenture focado em desenvolvimento front-end Angular em 2021. 
 
-Em 2021 participei do programa ADA mulheres na tecnologia da Avanade, atualmente trabalho e faço parte da Avanade Brasil me especializando em Engenharia de Software.
+Em 2021 participei do programa ADA mulheres na tecnologia da Avanade, atualmente trabalho e faço parte da Avanade Brasil.
 
 <p>🎯 Foco: ASP .NET Core | API RESTful | C# | Test NUnit | Sonar | React | Next JS</p>
 <p>❤ Hobbie: Andar de bicicleta, jogar video game e viajar.</p>	
