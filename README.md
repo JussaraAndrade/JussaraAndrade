@@ -1,6 +1,7 @@
 #### Olá 👋
-Eu sou Jussara Andrade! Sou desenvolvedora, formei Bacharel em Sistema de Informação em 2020 no Centro Universitário Senac Santo Amaro. 
-Atuo como desenvolvedora Full Stack na Avanade, trabalho com BackEnd e FrontEnd, meu ponto forte é o FrontEnd, tenho 4 anos na área de tecnologia. Aberta os novos desafios, gosto de aprender coisas novas e sair da zona de conforto.
+Me chamo Jussara Andrade, atuo na área de engenharia de software trabalhando como Full Stack, atualmente estou na Avanade 3 anos 6 meses possuo 5 anos de experiência na área da tecnologia.
+
+Formei em Sistema de Informação em 2020 no Centro Universitário Senac Santo Amaro.
 
 #### Bootcamp
 Em 2020 participei do bootcamp com foco em Engenharia de Software Java do Santander Coders. Participei também de outros bootcamps, um deles é a Accademia Accenture focado em desenvolvimento front-end Angular em 2021. 
