@@ -4,11 +4,7 @@
 
 <div align="center">
 <a href="https://github.com/JussaraAndrade">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=JussaraAndrade&count_private=true&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&layout=compact&)" />
-</a>
-
-<a href="https://github.com/JussaraAndrade">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JussaraAndrade&langs_count=8&layout=compact&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&)" />
+    <img height="300em" width="300em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JussaraAndrade&langs_count=8&layout=compact&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&)" />
 </a>
 </div>
 
@@ -36,12 +32,13 @@
 </div>
 
 ## 📱Redes Sociais
-<div>			
-<a href="https://www.linkedin.com/in/jussara-andrade-731731142/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" style="max-width:100%;">
-</a>
+<div aligin="center">
+  <a href="https://www.linkedin.com/in/jussara-andrade-731731142/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" style="max-width:100%;">
+  </a>
+  <a href="https://www.credly.com/users/jussara-de-jesus-andrade/badges" target="_blank">
+   <img src="https://img.icons8.com/color/48/000000/guarantee.png"/>
+  </a> 
 </div>
 
-<a href="https://www.credly.com/users/jussara-de-jesus-andrade/badges" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/guarantee.png"/>
-</a> 
+
