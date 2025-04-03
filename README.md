@@ -1,20 +1,27 @@
-#### Olá 👋
-Me chamo Jussara Andrade, atuo na área de engenharia de software trabalhando como Full Stack, atualmente estou na Avanade 3 anos 6 meses possuo 5 anos de experiência na área da tecnologia.
+<h2 align="center">
+  Olá, seja bem vindo ao meu perfil 👋
+</h2>
 
-Formei em Sistema de Informação em 2020 no Centro Universitário Senac Santo Amaro.
+<div align="center">
+<a href="https://github.com/JussaraAndrade">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=JussaraAndrade&count_private=true&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&layout=compact&)" />
+</a>
 
-#### Bootcamp
-Em 2020 participei do bootcamp com foco em Engenharia de Software Java do Santander Coders. Participei também de outros bootcamps, um deles é a Accademia Accenture focado em desenvolvimento front-end Angular em 2021. 
+<a href="https://github.com/JussaraAndrade">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JussaraAndrade&langs_count=8&layout=compact&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&)" />
+</a>
+</div>
 
-Em 2021 participei do programa ADA na Avanade, atualmente trabalho e faço parte da Avanade Brasil.
-
-<p>🎯 Foco: ASP .NET Core | API RESTful | C# | Test NUnit | Sonar | React | Next JS</p>
-<p>❤ Hobbie: Andar de bicicleta, jogar video game e viajar.</p>	
+## 📌 Sobre mim
+<li>🎓 Formação: Bacharelado Sistema de Informação Centro Universitário Senac Santo Amaro</li>
+<li>💼 Atualmente: Desenvolvedor Full Stack na Avanade</li>
+<li>🔨 Habilidade: ASP .NET Core 8 | API RESTful | C# | Test NUnit | Sonar | React | Next JS | Angular 8</li>
+<li>❤  Hobbie: Andar de bicicleta, video game e viajar.</li>	
  
 <br>
 <div>
 
-### 🚀 Ferramentas e Linguagem
+## 🚀 Tecnologias e Ferramentas 
 <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML 5" />
 <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS 3" />
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" />
@@ -28,7 +35,7 @@ Em 2021 participei do programa ADA na Avanade, atualmente trabalho e faço parte
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" />
 </div>
 
-#### Rede Sociais
+## 📱Redes Sociais
 <div>			
 <a href="https://www.linkedin.com/in/jussara-andrade-731731142/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" style="max-width:100%;">
@@ -38,16 +45,3 @@ Em 2021 participei do programa ADA na Avanade, atualmente trabalho e faço parte
 <a href="https://www.credly.com/users/jussara-de-jesus-andrade/badges" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/guarantee.png"/>
 </a> 
-
-<br>
-<br>
-
-<a href="https://github.com/JussaraAndrade">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=JussaraAndrade&count_private=true&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&layout=compact&)" />
-</a>
-
-<a href="https://github.com/JussaraAndrade">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JussaraAndrade&langs_count=8&layout=compact&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&)" />
-</a>
-
-
