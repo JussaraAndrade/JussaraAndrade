@@ -3,12 +3,9 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/JussaraAndrade">
-      <img height="300em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username={JussaraAndrade}&langs_count=8&layout=compact&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&)" /> 
-  </a>
-  <a href="https://github.com/JussaraAndrade">
-      <img height="400em" width="300em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JussaraAndrade&langs_count=8&layout=compact&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&)" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JussaraAndrade&show_icons=true&theme=onedark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JussaraAndrade&langs_count=8&layout=compact&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&)" />
+  
 </div>
 
 ## 📌 Sobre mim
